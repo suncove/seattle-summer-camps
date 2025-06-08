@@ -5,7 +5,4 @@ plotly
 requests
 beautifulsoup4
 aiohttp
-selenium
-webdriver_manager
-PyPDF2
 python-dotenv
