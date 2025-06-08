@@ -1,0 +1,109 @@
+2025-06-08 10:20:48,434 - INFO - Starting camp search with filters: {'zip_code': '98101', 'radius': 5, 'age': 8, 'start_date': datetime.date(2025, 6, 1), 'end_date': datetime.date(2025, 8, 31), 'max_price': 787}
+2025-06-08 10:20:48,434 - INFO - Scraping Seattle Parks and Recreation
+2025-06-08 10:20:48,434 - ERROR - Error scraping Seattle Parks and Recreation: 'coroutine' object is not iterable
+2025-06-08 10:20:48,434 - INFO - Scraping Seattle Children's Museum
+2025-06-08 10:20:48,447 - ERROR - Error scraping Seattle Children's Museum: 'coroutine' object is not iterable
+2025-06-08 10:20:48,447 - INFO - Scraping MoPOP
+2025-06-08 10:20:48,447 - ERROR - Error scraping MoPOP: 'coroutine' object is not iterable
+2025-06-08 10:20:48,447 - INFO - Found 0 matching camps
+2025-06-08 10:21:20,152 - INFO - Starting camp search with filters: {'zip_code': '98101', 'radius': 5, 'age': 8, 'start_date': datetime.date(2025, 6, 1), 'end_date': datetime.date(2025, 8, 31), 'max_price': 787}
+2025-06-08 10:21:20,153 - INFO - Scraping Seattle Parks and Recreation
+2025-06-08 10:21:20,153 - ERROR - Error scraping Seattle Parks and Recreation: 'coroutine' object is not iterable
+2025-06-08 10:21:20,153 - INFO - Scraping Seattle Children's Museum
+2025-06-08 10:21:20,153 - ERROR - Error scraping Seattle Children's Museum: 'coroutine' object is not iterable
+2025-06-08 10:21:20,153 - INFO - Scraping MoPOP
+2025-06-08 10:21:20,153 - ERROR - Error scraping MoPOP: 'coroutine' object is not iterable
+2025-06-08 10:21:20,153 - INFO - Found 0 matching camps
+2025-06-08 10:21:23,677 - INFO - Starting camp search with filters: {'zip_code': '98101', 'radius': 5, 'age': 8, 'start_date': datetime.date(2025, 6, 1), 'end_date': datetime.date(2025, 8, 31), 'max_price': 488}
+2025-06-08 10:21:23,677 - INFO - Scraping Seattle Parks and Recreation
+2025-06-08 10:21:23,678 - ERROR - Error scraping Seattle Parks and Recreation: 'coroutine' object is not iterable
+2025-06-08 10:21:23,678 - INFO - Scraping Seattle Children's Museum
+2025-06-08 10:21:23,678 - ERROR - Error scraping Seattle Children's Museum: 'coroutine' object is not iterable
+2025-06-08 10:21:23,678 - INFO - Scraping MoPOP
+2025-06-08 10:21:23,678 - ERROR - Error scraping MoPOP: 'coroutine' object is not iterable
+2025-06-08 10:21:23,678 - INFO - Found 0 matching camps
+2025-06-08 10:21:27,707 - INFO - Starting camp search with filters: {'zip_code': '98101', 'radius': 5, 'age': 10, 'start_date': datetime.date(2025, 6, 1), 'end_date': datetime.date(2025, 8, 31), 'max_price': 488}
+2025-06-08 10:21:27,708 - INFO - Scraping Seattle Parks and Recreation
+2025-06-08 10:21:27,708 - ERROR - Error scraping Seattle Parks and Recreation: 'coroutine' object is not iterable
+2025-06-08 10:21:27,708 - INFO - Scraping Seattle Children's Museum
+2025-06-08 10:21:27,708 - ERROR - Error scraping Seattle Children's Museum: 'coroutine' object is not iterable
+2025-06-08 10:21:27,708 - INFO - Scraping MoPOP
+2025-06-08 10:21:27,708 - ERROR - Error scraping MoPOP: 'coroutine' object is not iterable
+2025-06-08 10:21:27,709 - INFO - Found 0 matching camps
+2025-06-08 10:24:29,043 - INFO - Starting camp search with filters: {'zip_code': '98101', 'radius': 5, 'age': 8, 'start_date': datetime.date(2025, 6, 1), 'end_date': datetime.date(2025, 8, 31), 'max_price': 500}
+2025-06-08 10:24:29,044 - INFO - Scraping Seattle Parks and Recreation
+2025-06-08 10:24:29,044 - INFO - Starting to scrape: https://www.seattle.gov/parks/find/camps
+2025-06-08 10:24:29,533 - INFO - Found 3 camps at https://www.seattle.gov/parks/find/camps
+2025-06-08 10:24:29,534 - INFO - Scraping Seattle Children's Museum
+2025-06-08 10:24:29,534 - INFO - Starting to scrape: https://thechildrensmuseum.org/camps
+2025-06-08 10:24:29,699 - ERROR - Error scraping https://thechildrensmuseum.org/camps: HTTPSConnectionPool(host='thechildrensmuseum.org', port=443): Max retries exceeded with url: /camps (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'thechildrensmuseum.org'. (_ssl.c:1006)")))
+2025-06-08 10:24:29,700 - INFO - Scraping MoPOP
+2025-06-08 10:24:29,700 - INFO - Starting to scrape: https://www.mopop.org/camps
+2025-06-08 10:24:30,393 - INFO - Found 3 camps at https://www.mopop.org/camps
+2025-06-08 10:24:30,394 - ERROR - Error searching camps: can't compare datetime.datetime to datetime.date
+2025-06-08 10:24:49,448 - INFO - Starting camp search with filters: {'zip_code': '98101', 'radius': 15, 'age': 10, 'start_date': datetime.date(2025, 4, 1), 'end_date': datetime.date(2025, 8, 31), 'max_price': 500}
+2025-06-08 10:24:49,448 - INFO - Scraping Seattle Parks and Recreation
+2025-06-08 10:24:49,449 - INFO - Starting to scrape: https://www.seattle.gov/parks/find/camps
+2025-06-08 10:24:49,836 - INFO - Found 3 camps at https://www.seattle.gov/parks/find/camps
+2025-06-08 10:24:49,836 - INFO - Scraping Seattle Children's Museum
+2025-06-08 10:24:49,836 - INFO - Starting to scrape: https://thechildrensmuseum.org/camps
+2025-06-08 10:24:49,922 - ERROR - Error scraping https://thechildrensmuseum.org/camps: HTTPSConnectionPool(host='thechildrensmuseum.org', port=443): Max retries exceeded with url: /camps (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'thechildrensmuseum.org'. (_ssl.c:1006)")))
+2025-06-08 10:24:49,923 - INFO - Scraping MoPOP
+2025-06-08 10:24:49,923 - INFO - Starting to scrape: https://www.mopop.org/camps
+2025-06-08 10:24:50,377 - INFO - Found 3 camps at https://www.mopop.org/camps
+2025-06-08 10:24:50,377 - ERROR - Error searching camps: can't compare datetime.datetime to datetime.date
+2025-06-08 10:31:59,024 - INFO - Starting camp search with filters: {'zip_code': '98101', 'radius': 5, 'age': 8, 'start_date': datetime.date(2025, 6, 1), 'end_date': datetime.date(2025, 8, 31), 'max_price': 479}
+2025-06-08 10:31:59,025 - INFO - Scraping Seattle Parks and Recreation
+2025-06-08 10:31:59,025 - INFO - Starting to scrape: https://www.seattle.gov/parks/find/camps
+2025-06-08 10:32:05,196 - INFO - Found 3 camps at https://www.seattle.gov/parks/find/camps
+2025-06-08 10:32:05,196 - INFO - Scraping Seattle Children's Museum
+2025-06-08 10:32:05,196 - INFO - Starting to scrape: https://thechildrensmuseum.org/camps
+2025-06-08 10:32:05,364 - ERROR - Error scraping https://thechildrensmuseum.org/camps: HTTPSConnectionPool(host='thechildrensmuseum.org', port=443): Max retries exceeded with url: /camps (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'thechildrensmuseum.org'. (_ssl.c:1006)")))
+2025-06-08 10:32:05,364 - INFO - Scraping MoPOP
+2025-06-08 10:32:05,364 - INFO - Starting to scrape: https://www.mopop.org/camps
+2025-06-08 10:32:05,807 - INFO - Found 3 camps at https://www.mopop.org/camps
+2025-06-08 10:32:05,807 - ERROR - Error searching camps: 'datetime.date' object has no attribute 'date'
+2025-06-08 10:34:31,991 - INFO - Starting camp search with filters: {'zip_code': '98101', 'radius': 5, 'age': 8, 'start_date': datetime.date(2025, 6, 1), 'end_date': datetime.date(2025, 8, 31), 'max_price': 500}
+2025-06-08 10:34:31,991 - INFO - Scraping Seattle Parks and Recreation
+2025-06-08 10:34:31,991 - INFO - Starting to scrape: https://www.seattle.gov/parks/find/camps
+2025-06-08 10:34:32,635 - INFO - Found 3 camps at https://www.seattle.gov/parks/find/camps
+2025-06-08 10:34:32,635 - INFO - Scraping Seattle Children's Museum
+2025-06-08 10:34:32,635 - INFO - Starting to scrape: https://thechildrensmuseum.org/camps
+2025-06-08 10:34:32,787 - ERROR - Error scraping https://thechildrensmuseum.org/camps: HTTPSConnectionPool(host='thechildrensmuseum.org', port=443): Max retries exceeded with url: /camps (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'thechildrensmuseum.org'. (_ssl.c:1006)")))
+2025-06-08 10:34:32,787 - INFO - Scraping MoPOP
+2025-06-08 10:34:32,787 - INFO - Starting to scrape: https://www.mopop.org/camps
+2025-06-08 10:34:33,173 - INFO - Found 3 camps at https://www.mopop.org/camps
+2025-06-08 10:34:33,181 - INFO - Found 0 matching camps
+2025-06-08 10:34:58,358 - INFO - Starting camp search with filters: {'zip_code': '98101', 'radius': 5, 'age': 8, 'start_date': datetime.date(2025, 6, 1), 'end_date': datetime.date(2025, 8, 31), 'max_price': 778}
+2025-06-08 10:34:58,358 - INFO - Scraping Seattle Parks and Recreation
+2025-06-08 10:34:58,358 - INFO - Starting to scrape: https://www.seattle.gov/parks/find/camps
+2025-06-08 10:34:58,764 - INFO - Found 3 camps at https://www.seattle.gov/parks/find/camps
+2025-06-08 10:34:58,765 - INFO - Scraping Seattle Children's Museum
+2025-06-08 10:34:58,765 - INFO - Starting to scrape: https://thechildrensmuseum.org/camps
+2025-06-08 10:34:58,853 - ERROR - Error scraping https://thechildrensmuseum.org/camps: HTTPSConnectionPool(host='thechildrensmuseum.org', port=443): Max retries exceeded with url: /camps (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'thechildrensmuseum.org'. (_ssl.c:1006)")))
+2025-06-08 10:34:58,854 - INFO - Scraping MoPOP
+2025-06-08 10:34:58,854 - INFO - Starting to scrape: https://www.mopop.org/camps
+2025-06-08 10:34:59,220 - INFO - Found 3 camps at https://www.mopop.org/camps
+2025-06-08 10:34:59,229 - INFO - Found 0 matching camps
+2025-06-08 10:35:14,571 - INFO - Starting camp search with filters: {'zip_code': '98101', 'radius': 13, 'age': 8, 'start_date': datetime.date(2025, 6, 1), 'end_date': datetime.date(2025, 8, 31), 'max_price': 778}
+2025-06-08 10:35:14,571 - INFO - Scraping Seattle Parks and Recreation
+2025-06-08 10:35:14,571 - INFO - Starting to scrape: https://www.seattle.gov/parks/find/camps
+2025-06-08 10:35:14,881 - INFO - Found 3 camps at https://www.seattle.gov/parks/find/camps
+2025-06-08 10:35:14,881 - INFO - Scraping Seattle Children's Museum
+2025-06-08 10:35:14,881 - INFO - Starting to scrape: https://thechildrensmuseum.org/camps
+2025-06-08 10:35:14,966 - ERROR - Error scraping https://thechildrensmuseum.org/camps: HTTPSConnectionPool(host='thechildrensmuseum.org', port=443): Max retries exceeded with url: /camps (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'thechildrensmuseum.org'. (_ssl.c:1006)")))
+2025-06-08 10:35:14,966 - INFO - Scraping MoPOP
+2025-06-08 10:35:14,966 - INFO - Starting to scrape: https://www.mopop.org/camps
+2025-06-08 10:35:15,382 - INFO - Found 3 camps at https://www.mopop.org/camps
+2025-06-08 10:35:15,388 - INFO - Found 0 matching camps
+2025-06-08 10:37:18,481 - INFO - Starting camp search with filters: {'zip_code': '98101', 'radius': 5, 'age': 8, 'start_date': datetime.date(2025, 6, 1), 'end_date': datetime.date(2025, 8, 31), 'max_price': 500}
+2025-06-08 10:37:18,482 - INFO - Scraping Seattle Parks and Recreation
+2025-06-08 10:37:18,482 - INFO - Starting to scrape: https://www.seattle.gov/parks/find/camps
+2025-06-08 10:37:18,902 - INFO - Found 3 camps at https://www.seattle.gov/parks/find/camps
+2025-06-08 10:37:18,902 - INFO - Scraping Seattle Children's Museum
+2025-06-08 10:37:18,902 - INFO - Starting to scrape: https://thechildrensmuseum.org/camps
+2025-06-08 10:37:19,011 - ERROR - Error scraping https://thechildrensmuseum.org/camps: HTTPSConnectionPool(host='thechildrensmuseum.org', port=443): Max retries exceeded with url: /camps (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'thechildrensmuseum.org'. (_ssl.c:1006)")))
+2025-06-08 10:37:19,011 - INFO - Scraping MoPOP
+2025-06-08 10:37:19,011 - INFO - Starting to scrape: https://www.mopop.org/camps
+2025-06-08 10:37:19,479 - INFO - Found 3 camps at https://www.mopop.org/camps
+2025-06-08 10:37:19,489 - INFO - Found 4 matching camps

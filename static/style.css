@@ -1,0 +1,73 @@
+/* Main styles */
+.stApp {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Calendar styles */
+.camp-badge {
+    background-color: #f0f2f6;
+    border-radius: 4px;
+    padding: 2px 4px;
+    margin: 2px 0;
+    font-size: 0.8em;
+    color: #31333F;
+    border-left: 3px solid #FF4B4B;
+}
+
+/* Expandable camp cards */
+.stExpander {
+    border: 1px solid #f0f2f6;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+/* Sidebar styling */
+.css-1d391kg {
+    padding: 2rem 1rem;
+}
+
+/* Button styling */
+.stButton>button {
+    width: 100%;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+}
+
+/* Alert styling */
+.stAlert {
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 4px;
+}
+
+/* Form input styling */
+.stTextInput>div>div>input {
+    border-radius: 4px;
+}
+
+/* Calendar day styling */
+.calendar-day {
+    border: 1px solid #f0f2f6;
+    padding: 8px;
+    min-height: 100px;
+    background: white;
+}
+
+.calendar-day:hover {
+    background: #f8f9fa;
+}
+
+/* Rating stars */
+.rating {
+    color: #ffd700;
+}
+
+/* Price badge */
+.price-badge {
+    background: #e6f3ff;
+    color: #0066cc;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.9em;
+}
+ 

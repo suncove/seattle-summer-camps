@@ -1,0 +1,55 @@
+{
+    "sources": [
+        {
+            "name": "Seattle Parks and Recreation",
+            "url": "https://www.seattle.gov/parks/find/camps",
+            "locations": [
+                {"zip": "98103", "name": "Green Lake Community Center"},
+                {"zip": "98112", "name": "Montlake Community Center"},
+                {"zip": "98115", "name": "Meadowbrook Community Center"}
+            ],
+            "camps": [
+                {
+                    "name": "Nature Explorers Camp",
+                    "ages": "7-11",
+                    "dates": ["2025-07-07", "2025-07-14", "2025-07-21"],
+                    "cost": 325,
+                    "description": "Outdoor exploration and nature activities",
+                    "registration_opens": "2025-03-01"
+                }
+            ]
+        },
+        {
+            "name": "Seattle Children's Museum",
+            "url": "https://thechildrensmuseum.org/camps",
+            "locations": [
+                {"zip": "98109", "name": "Seattle Center"}
+            ],
+            "camps": [
+                {
+                    "name": "Little Scientists",
+                    "ages": "5-8",
+                    "dates": ["2025-07-08", "2025-07-15"],
+                    "cost": 375,
+                    "description": "Hands-on science experiments and discovery"
+                }
+            ]
+        },
+        {
+            "name": "MoPOP",
+            "url": "https://www.mopop.org/camps",
+            "locations": [
+                {"zip": "98109", "name": "Seattle Center"}
+            ],
+            "camps": [
+                {
+                    "name": "Rock Band Camp",
+                    "ages": "12-16",
+                    "dates": ["2025-07-14", "2025-08-04"],
+                    "cost": 450,
+                    "description": "Learn instruments and form a band"
+                }
+            ]
+        }
+    ]
+}
