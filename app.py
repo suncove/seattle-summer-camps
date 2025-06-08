@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime
-from scraper import CampScraper
+from scraper import SeattleCampScraper as CampScraper
 import logging
 import json
 import plotly.figure_factory as ff
